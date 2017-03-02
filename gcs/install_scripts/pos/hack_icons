@@ -1,0 +1,6 @@
+
+# ImageMagick package adds two icons that poitns to the same application
+# and these applications can't start because they need the terminal.
+# Also this application is not translated into Spanish.
+rm -f /usr/share/applications/display-im6.desktop
+rm -f /usr/share/applications/display-im6.q16.desktop
