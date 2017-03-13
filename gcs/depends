@@ -11,3 +11,6 @@ imagemagick
 # Screenshot utility
 # Configure it in /etc/xdg/openbox/rc.xml
 gnome-screenshot
+
+# Fix notification autostart in /etc/xdg/autostart/notification-daemon-autostart.desktop
+notification-daemon
