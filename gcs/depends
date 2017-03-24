@@ -14,3 +14,6 @@ gnome-screenshot
 
 # Fix notification autostart in /etc/xdg/autostart/notification-daemon-autostart.desktop
 notification-daemon
+
+# Necessary to apply /etc/systemd/logind.conf
+systemd
